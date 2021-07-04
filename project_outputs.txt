@@ -1,0 +1,12 @@
+Outputs :
+
+Enter any string : Srijani
+<md5 HASH object @ 0x05BD0278>
+
+Enter any string : Kolkata
+<md5 HASH object @ 0x05BD0278>
+<sha224 HASH object @ 0x05BD0F80>
+<sha1 HASH object @ 0x05BD0D28>
+
+Enter any string : Student
+<md5 HASH object @ 0x05BD0BD8>
